@@ -1,0 +1,1 @@
+This project implements a Simple Neural Network for Text Generation using custom-built neural network functionality in Python, focused on identifying and generating text based on patterns in a corpus.
